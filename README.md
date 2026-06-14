@@ -1,4 +1,3 @@
-# containerized-web-app
 #  Containerized Web Application & Database Environment
 
 ##  Project Overview
@@ -28,7 +27,7 @@ containerized-web-app/
 └── .gitignore             # Prevents database storage volumes from entering version control
 ```
 
-##  Step-by-Step Execution Guide
+##  Step-by-Step Execution
 Step 1: Start the Multi-Container Environment
 Open your terminal in the project directory. Run the following command to build the custom application image, pull the MySQL database image, and start both containers in the background:
 ```bash
